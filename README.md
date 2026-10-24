@@ -7,7 +7,7 @@ This project demonstrates an end-to-end Predictive Analytics workflow using the 
 
 ## Dataset
 Download `oasis_cross-sectional.csv` from:
-- Kaggle: https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers
+- ADNI Kaggle: https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers
 - OASIS resource: https://sites.wustl.edu/oasisbrains/
 
 Place the dataset beside the notebook. The notebook also supports the corresponding OASIS cross-sectional Excel file if you update/confirm its filename in the loading cell.
